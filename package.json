@@ -1,0 +1,19 @@
+{
+  "name": "pyth-updated",
+  "version": "1.0.0",
+  "main": "pyth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.13.15",
+    "path": "^0.12.7",
+    "quickmongo": "^5.2.0",
+    "uri-js": "^4.2.2"
+  }
+}
